@@ -2,7 +2,8 @@
 REST API server with bearer token auth
 
 Language: ***JavaScript***
-Database: *** PostgreSQL***
+
+Database: ***PostgreSQL***
 
 # Description
 ### API (JSON)
